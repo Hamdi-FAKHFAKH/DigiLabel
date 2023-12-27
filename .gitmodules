@@ -1,0 +1,6 @@
+[submodule "Label-design-web-App-Frontend"]
+	path = Label-design-web-App-Frontend
+	url = https://github.com/Hamdi-FAKHFAKH/Label-design-web-App-Frontend.git
+[submodule "Label-design-web-App-Backend"]
+	path = Label-design-web-App-Backend
+	url = https://github.com/Hamdi-FAKHFAKH/Label-design-web-App-Backend.git
