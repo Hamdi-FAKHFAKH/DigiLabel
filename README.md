@@ -54,6 +54,9 @@ Start the server for both parts of the project
 
 ## Demo
 
+
+[![Watch the video](https://img.youtube.com/vi/1yZHMaLe8O0/maxresdefault.jpg)](https://youtu.be/1yZHMaLe8O0)
+
 ## Tech Stack
 
 **Client:** ***Angular***
