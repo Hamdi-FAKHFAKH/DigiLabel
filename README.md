@@ -67,7 +67,7 @@ Start the server for both parts of the project
 ## Used By
 
 This project is used by the following companies:
-- Hutchinson
+- [Hutchinson](https://www.hutchinson.com/fr)
 
 
 ## Authors
